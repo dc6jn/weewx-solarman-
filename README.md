@@ -5,16 +5,13 @@ Do not use it, it may damage you inverter!
 
 # weewx-photovoltaics
 
-Extension to WeeWX for processing data of the photovoltaics system E3/DC
+Extension to WeeWX for processing data of the photovoltaics system 
 
-Display example:
-
-<p align="center"><img src="example-display-800.png" /></p>
 
 ## Prerequisites
 
 ```
-pip install pye3dc
+
 ```
 
 ## Installation instructions
