@@ -1,3 +1,8 @@
+This work is derived from https://github.com/roe-dl/weewx-photovoltaics with the goal to feed Solarman data into weewx.
+
+Please do not rely on this fork until further notice!
+Do not use it, it may damage you inverter!
+
 # weewx-photovoltaics
 
 Extension to WeeWX for processing data of the photovoltaics system E3/DC
